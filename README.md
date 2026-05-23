@@ -1,8 +1,5 @@
 # CCE_Demo
-<h1> DESC Cloud Evening Demo </h1>
+<h1> This is a Python Calculator App </h1>
 <br> Rafid was here
 
-advadva
 
-adbvoajdbvojadsbvobadvbdaojvbn
-dvadv
